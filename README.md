@@ -5,7 +5,7 @@
 [![issue](https://img.shields.io/github/issues/win-winFE/dms-fetch.svg)](https://github.com/win-winFE/dms-fetch)
 [![license](https://img.shields.io/github/license/win-winFE/dms-fetch.svg)](https://github.com/win-winFE/dms-fetch)
 
-## DMS-API
+## DMS-FETCH
 
 **用于获取DMS的动态配置数据**
 
